@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/antonydev/static/css/main.50b98eca.chunk.css",
+    "main.js": "/antonydev/static/js/main.ca8c99b9.chunk.js",
+    "main.js.map": "/antonydev/static/js/main.ca8c99b9.chunk.js.map",
+    "runtime-main.js": "/antonydev/static/js/runtime-main.3d782684.js",
+    "runtime-main.js.map": "/antonydev/static/js/runtime-main.3d782684.js.map",
+    "static/css/2.150d169a.chunk.css": "/antonydev/static/css/2.150d169a.chunk.css",
+    "static/js/2.23817529.chunk.js": "/antonydev/static/js/2.23817529.chunk.js",
+    "static/js/2.23817529.chunk.js.map": "/antonydev/static/js/2.23817529.chunk.js.map",
+    "index.html": "/antonydev/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/antonydev/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.50b98eca.chunk.css.map": "/antonydev/static/css/main.50b98eca.chunk.css.map",
+    "static/js/2.23817529.chunk.js.LICENSE.txt": "/antonydev/static/js/2.23817529.chunk.js.LICENSE.txt",
+    "static/media/logo.75ebdcc4.png": "/antonydev/static/media/logo.75ebdcc4.png",
+    "static/media/Portadas.css": "/antonydev/static/media/perfil.e8f28674.jpg",
+    "static/media/Animation.css": "/antonydev/static/media/picture2.cf71df4a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d782684.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.23817529.chunk.js",
+    "static/css/main.50b98eca.chunk.css",
+    "static/js/main.ca8c99b9.chunk.js"
+  ]
+}
